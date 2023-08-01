@@ -890,7 +890,7 @@ main .titulo {
     border-radius: 4px;
     cursor: pointer;
     border-radius: 80px;
-    width: 340px;
+    width: 330px;
     height: 229px;
     margin-top: -20px;
 }
@@ -900,7 +900,7 @@ main .titulo {
     justify-content: center;
     border: red;
     background-color:#eb2828 ;
-    width: 330px;
+    width: 315px;
     height: 229px;
     border-radius: 80px;
 }
